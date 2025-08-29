@@ -1,4 +1,4 @@
-![Data First Banner](.datafirst/datafirst-banner.png)
+![Data First Banner](../.datafirst/datafirst-banner.png)
 
 At Data First Consultancy, we are passionate about transforming businesses through the power of data and technology. Founded with a vision to democratise access to advanced analytics and digital solutions, we help organisations of all sizes unlock their potential and drive meaningful growth.
 
